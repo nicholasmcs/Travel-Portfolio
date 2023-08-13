@@ -1,0 +1,26 @@
+.header{
+    grid-area: hd;
+}
+
+.header-nav{
+    grid-area: hn;
+}
+.info{
+    grid-area: mn;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.info h2{
+    font-size: large;
+}
+
+.info p{
+    text-align: center;
+}
+
+.footer{
+    grid-area: ft;
+}

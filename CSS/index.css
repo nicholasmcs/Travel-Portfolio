@@ -1,0 +1,44 @@
+.section{
+    grid-area: mn;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.card{
+    border: 1px solid black;
+    width:auto;
+    text-align: center;
+    padding-bottom: 8px;
+    margin: 10px;
+    font-weight: bold;
+    box-shadow: 8px 8px 3px gray;
+}
+
+img{
+    width: auto;
+}
+
+.card figcaption{
+    padding: 5px;
+    text-shadow: 2px 2px 4px rgba(113, 115, 113, 0.554);
+}
+
+.card a{
+    text-shadow: 2px black;
+}
+
+.card-button{
+    border-radius: 6px;
+    border: 1px solid black;
+    background-color: #D7C0AE;
+    font-weight: 500;
+}
+
+.card-button a{
+    background-color: #D7C0AE;
+    color: black;
+    text-decoration: none;
+}

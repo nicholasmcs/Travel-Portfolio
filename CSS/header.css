@@ -1,0 +1,22 @@
+.header{
+    grid-area: hd;
+    display: flex;
+    justify-content: center;
+}
+
+.header-nav{
+    grid-area: hn;
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.header-nav a{
+    text-decoration: none;
+    color: black;
+}
+
+.header-nav a:hover{
+    text-decoration: underline;
+    color: gray;
+    transition: linear;
+}

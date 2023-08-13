@@ -1,0 +1,18 @@
+*{
+    background-color: #EEE3CB;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: auto;
+}
+
+grid{
+    display: grid;
+    grid-template-areas: 
+    'hd hd hd hd hd hd'
+    'hn hn hn hn hn hn'
+    'mn mn mn mn mn mn'
+    'ft ft ft ft ft ft';
+}
+
+.section{
+    padding-bottom: 20px;
+}
