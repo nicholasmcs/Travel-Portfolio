@@ -4,14 +4,16 @@ This project required me to use more advanced concepts of HTML and CSS by creati
 I dedicated this one to places I've visited and or plan to visit in the near future.
 
 ## HTML
-In the HTML I used best practices at the time of the project and using the `div` and `section` tags to create seperate bodies.
+In the HTML I used best practices at the time of the project and used the `div` and `section` tags to create separate bodies.
 **Example:**
 ```html
   <section>
     <div>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     </div>
-</section>```
+</section>
+```
+
 This allowed me to create a `grid` to set base to transform the website
 
 ## CSS
