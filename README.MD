@@ -11,7 +11,7 @@ In the HTML I used best practices at the time of the project and using the `div`
     <div>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     </div>
-</section>
+</section>```
 This allowed me to create a `grid` to set base to transform the website
 
 ## CSS
