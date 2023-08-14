@@ -19,4 +19,4 @@ This allowed me to create a `grid` to set base to transform the website
 ## CSS
 The CSS files entail a lot `display: grid` allowing the website to be responsive to all screen sizes.
 By changing the background color for each size (Mobile, Tablet, and Computer)It shows the website functionality
-Additional CSS properties added included 'border-radius' for `button` and 'hover' elements to change with mouse placement
+Additional CSS properties added included `border-radius` for `button` and 'hover' elements to change with mouse placement
